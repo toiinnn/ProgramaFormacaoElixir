@@ -1,0 +1,13 @@
+C:\Users\marco\source\repos\DesafioStone\DesafioStone\bin\Debug\netcoreapp3.1\DesafioStone.exe
+C:\Users\marco\source\repos\DesafioStone\DesafioStone\bin\Debug\netcoreapp3.1\DesafioStone.deps.json
+C:\Users\marco\source\repos\DesafioStone\DesafioStone\bin\Debug\netcoreapp3.1\DesafioStone.runtimeconfig.json
+C:\Users\marco\source\repos\DesafioStone\DesafioStone\bin\Debug\netcoreapp3.1\DesafioStone.runtimeconfig.dev.json
+C:\Users\marco\source\repos\DesafioStone\DesafioStone\bin\Debug\netcoreapp3.1\DesafioStone.dll
+C:\Users\marco\source\repos\DesafioStone\DesafioStone\bin\Debug\netcoreapp3.1\DesafioStone.pdb
+C:\Users\marco\source\repos\DesafioStone\DesafioStone\obj\Debug\netcoreapp3.1\DesafioStone.csprojAssemblyReference.cache
+C:\Users\marco\source\repos\DesafioStone\DesafioStone\obj\Debug\netcoreapp3.1\DesafioStone.AssemblyInfoInputs.cache
+C:\Users\marco\source\repos\DesafioStone\DesafioStone\obj\Debug\netcoreapp3.1\DesafioStone.AssemblyInfo.cs
+C:\Users\marco\source\repos\DesafioStone\DesafioStone\obj\Debug\netcoreapp3.1\DesafioStone.csproj.CoreCompileInputs.cache
+C:\Users\marco\source\repos\DesafioStone\DesafioStone\obj\Debug\netcoreapp3.1\DesafioStone.dll
+C:\Users\marco\source\repos\DesafioStone\DesafioStone\obj\Debug\netcoreapp3.1\DesafioStone.pdb
+C:\Users\marco\source\repos\DesafioStone\DesafioStone\obj\Debug\netcoreapp3.1\DesafioStone.genruntimeconfig.cache
